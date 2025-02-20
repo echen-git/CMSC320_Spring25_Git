@@ -4,3 +4,7 @@ Answer: It makes it easy to store and manage files.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare regarding disease trends
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging ensures that both branches history are properly preserved whereas rebase rewrites the history by using another branch as the base.
